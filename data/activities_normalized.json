@@ -6719,5 +6719,31 @@
     "start_date_local": "2026-03-12T18:24:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 19084.3,
+    "elevation_gain": 158.0,
+    "id": "17710168800",
+    "moving_time": 2155.0,
+    "name": "Zwift - Elevate and Escalate",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-13T17:45:39Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17717225776",
+    "moving_time": 2489.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-14T11:01:07Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
