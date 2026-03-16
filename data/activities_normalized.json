@@ -6745,5 +6745,18 @@
     "start_date_local": "2026-03-14T11:01:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 25111.4,
+    "elevation_gain": 285.0,
+    "id": "17734876354",
+    "moving_time": 2842.0,
+    "name": "Zwift - Hudson Hustle in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-15T17:59:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
