@@ -4688,6 +4688,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17743732335",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 17,
+      "name": "Zwift - 2 by 2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17819235637",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9218,6 +9227,15 @@
           "distance": 25111.4,
           "elevation_gain": 285.0,
           "moving_time": 2842.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17819235637"
+          ],
+          "count": 1,
+          "distance": 14008.9,
+          "elevation_gain": 246.0,
+          "moving_time": 1820.0
         }
       },
       "WeightTraining": {
@@ -9361,7 +9379,7 @@
       }
     }
   },
-  "generated_at": "2026-03-22T15:34:01.484738+00:00",
+  "generated_at": "2026-03-23T16:04:54.581782+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
