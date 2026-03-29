@@ -4715,6 +4715,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17858338687",
       "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17890770226",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 17,
+      "name": "Zwift - Cobbled Crown in Richmond",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17891552678",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8996,6 +9014,15 @@
           "distance": 13977.5,
           "elevation_gain": 63.4,
           "moving_time": 2526.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17890770226"
+          ],
+          "count": 1,
+          "distance": 10368.6,
+          "elevation_gain": 37.2,
+          "moving_time": 1825.0
         }
       },
       "Run": {
@@ -9263,6 +9290,15 @@
           "distance": 14008.9,
           "elevation_gain": 246.0,
           "moving_time": 1820.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17891552678"
+          ],
+          "count": 1,
+          "distance": 24061.4,
+          "elevation_gain": 288.0,
+          "moving_time": 2959.0
         }
       },
       "WeightTraining": {
@@ -9415,7 +9451,7 @@
       }
     }
   },
-  "generated_at": "2026-03-28T15:38:13.942612+00:00",
+  "generated_at": "2026-03-29T15:39:41.299284+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",

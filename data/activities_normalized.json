@@ -6810,5 +6810,31 @@
     "start_date_local": "2026-03-25T16:17:50Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 10368.6,
+    "elevation_gain": 37.2,
+    "id": "17890770226",
+    "moving_time": 1825.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T16:44:57Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 24061.4,
+    "elevation_gain": 288.0,
+    "id": "17891552678",
+    "moving_time": 2959.0,
+    "name": "Zwift - Cobbled Crown in Richmond",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-28T17:36:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
