@@ -6888,5 +6888,31 @@
     "start_date_local": "2026-04-01T09:56:43Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 1200.0,
+    "elevation_gain": 0.0,
+    "id": "17959439136",
+    "moving_time": 1970.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-02T12:14:01Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 25982.1,
+    "elevation_gain": 187.0,
+    "id": "17959233964",
+    "moving_time": 2712.0,
+    "name": "Zwift - Pacer Group Ride with Coco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-03T10:41:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
