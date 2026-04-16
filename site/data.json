@@ -4841,6 +4841,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18115110885",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18129859051",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9643,6 +9652,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3094.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18129859051"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3602.0
         }
       },
       "Yoga": {
@@ -9667,7 +9685,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T16:10:28.702529+00:00",
+  "generated_at": "2026-04-16T16:26:52.652530+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",

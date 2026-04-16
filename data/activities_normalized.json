@@ -6992,5 +6992,18 @@
     "start_date_local": "2026-04-15T09:34:03Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18129859051",
+    "moving_time": 3602.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-16T11:18:44Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
