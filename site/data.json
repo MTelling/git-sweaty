@@ -4949,6 +4949,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18389242413",
       "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 16,
+      "name": "Til Alexanders bryllup",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18428520263",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9284,6 +9293,15 @@
           "distance": 42297.9,
           "elevation_gain": 293.0,
           "moving_time": 5377.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18428520263"
+          ],
+          "count": 1,
+          "distance": 82910.7,
+          "elevation_gain": 281.0,
+          "moving_time": 11279.0
         }
       },
       "Run": {
@@ -9883,7 +9901,7 @@
       }
     }
   },
-  "generated_at": "2026-05-08T16:20:33.344917+00:00",
+  "generated_at": "2026-05-09T15:58:46.615690+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
