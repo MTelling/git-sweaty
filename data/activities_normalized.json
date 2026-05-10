@@ -7161,5 +7161,18 @@
     "start_date_local": "2026-05-08T16:32:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 77806.0,
+    "elevation_gain": 185.0,
+    "id": "18452416661",
+    "moving_time": 9848.0,
+    "name": "Hjem fra Bryllup",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T11:46:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
