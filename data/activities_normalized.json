@@ -7213,5 +7213,18 @@
     "start_date_local": "2026-05-12T18:02:09Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 22401.4,
+    "elevation_gain": 86.0,
+    "id": "18486928899",
+    "moving_time": 2495.0,
+    "name": "Zwift - : Bike Intervals",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-13T07:55:26Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
