@@ -7252,5 +7252,18 @@
     "start_date_local": "2026-05-16T11:02:19Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 52198.4,
+    "elevation_gain": 274.0,
+    "id": "18540592802",
+    "moving_time": 6490.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T10:34:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
