@@ -7304,5 +7304,18 @@
     "start_date_local": "2026-05-20T18:48:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 500.0,
+    "elevation_gain": 0.0,
+    "id": "18622732767",
+    "moving_time": 1200.0,
+    "name": "Test af v\u00e5ddragt",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-23T16:30:27Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
