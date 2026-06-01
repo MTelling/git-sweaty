@@ -5129,6 +5129,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18724895131",
       "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 18,
+      "name": "Evening Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18745122613",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9838,6 +9847,15 @@
           "distance": 850.0,
           "elevation_gain": 0.0,
           "moving_time": 1308.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18745122613"
+          ],
+          "count": 1,
+          "distance": 1506.0,
+          "elevation_gain": 13.8,
+          "moving_time": 2619.0
         }
       },
       "VirtualRide": {
@@ -10235,7 +10253,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:17:12.555572+00:00",
+  "generated_at": "2026-06-01T19:57:18.706869+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
