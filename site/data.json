@@ -5138,6 +5138,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18745122613",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 21,
+      "name": "Night Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18761180950",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18765854272",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9719,6 +9737,15 @@
           "distance": 4036.9,
           "elevation_gain": 7.4,
           "moving_time": 1631.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18765854272"
+          ],
+          "count": 1,
+          "distance": 3040.9,
+          "elevation_gain": 7.8,
+          "moving_time": 1177.0
         }
       },
       "Swim": {
@@ -10220,6 +10247,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2538.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18761180950"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2268.0
         }
       },
       "Yoga": {
@@ -10253,7 +10289,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:47:50.879299+00:00",
+  "generated_at": "2026-06-03T18:51:41.227394+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
