@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T17:26:59.143406+00:00",
+  "generated_at": "2026-06-10T18:07:56.326124+00:00",
   "years": {
     "2023": {
       "MountainBikeRide": {
@@ -4588,6 +4588,15 @@
           "distance": 3040.9,
           "elevation_gain": 7.8,
           "moving_time": 1177.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18855499138"
+          ],
+          "count": 1,
+          "distance": 3290.3,
+          "elevation_gain": 11.8,
+          "moving_time": 1210.0
         }
       },
       "Swim": {
@@ -4907,6 +4916,15 @@
           "distance": 26567.1,
           "elevation_gain": 53.0,
           "moving_time": 2915.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18867684889"
+          ],
+          "count": 1,
+          "distance": 27234.6,
+          "elevation_gain": 54.0,
+          "moving_time": 2918.0
         }
       },
       "WeightTraining": {

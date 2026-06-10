@@ -7499,5 +7499,31 @@
     "start_date_local": "2026-06-08T18:32:57Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 3290.3,
+    "elevation_gain": 11.8,
+    "id": "18855499138",
+    "moving_time": 1210.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T21:05:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 27234.6,
+    "elevation_gain": 54.0,
+    "id": "18867684889",
+    "moving_time": 2918.0,
+    "name": "Zwift - Foundation",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-10T18:32:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
