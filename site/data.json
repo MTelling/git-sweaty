@@ -5219,6 +5219,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18879654369",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 10,
+      "name": "Zwift - Short Sweet Spot Tune Up",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18913619602",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10155,6 +10164,15 @@
           "distance": 27234.6,
           "elevation_gain": 54.0,
           "moving_time": 2918.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18913619602"
+          ],
+          "count": 1,
+          "distance": 21261.1,
+          "elevation_gain": 275.0,
+          "moving_time": 2804.0
         }
       },
       "WeightTraining": {
@@ -10415,7 +10433,7 @@
       }
     }
   },
-  "generated_at": "2026-06-13T16:20:45.694631+00:00",
+  "generated_at": "2026-06-14T16:27:40.527369+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
