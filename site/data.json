@@ -5228,6 +5228,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18913619602",
       "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 8,
+      "name": "Zwift - Heat Wave",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18967597063",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10173,6 +10182,15 @@
           "distance": 21261.1,
           "elevation_gain": 275.0,
           "moving_time": 2804.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18967597063"
+          ],
+          "count": 1,
+          "distance": 11002.1,
+          "elevation_gain": 48.0,
+          "moving_time": 1171.0
         }
       },
       "WeightTraining": {
@@ -10433,7 +10451,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T19:06:35.965948+00:00",
+  "generated_at": "2026-06-18T18:09:02.451920+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",

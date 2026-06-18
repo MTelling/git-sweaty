@@ -7551,5 +7551,18 @@
     "start_date_local": "2026-06-14T10:27:01Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 11002.1,
+    "elevation_gain": 48.0,
+    "id": "18967597063",
+    "moving_time": 1171.0,
+    "name": "Zwift - Heat Wave",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-18T08:24:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
