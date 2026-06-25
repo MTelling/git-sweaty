@@ -5237,6 +5237,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18967597063",
       "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19051837746",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 9,
+      "name": "Morning Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19058648448",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9636,6 +9654,15 @@
           "distance": 51081.9,
           "elevation_gain": 288.0,
           "moving_time": 7349.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19051837746"
+          ],
+          "count": 1,
+          "distance": 51610.8,
+          "elevation_gain": 355.0,
+          "moving_time": 6363.0
         }
       },
       "Run": {
@@ -10000,6 +10027,15 @@
           "distance": 775.0,
           "elevation_gain": 0.0,
           "moving_time": 1379.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19058648448"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1587.0
         }
       },
       "VirtualRide": {
@@ -10451,7 +10487,7 @@
       }
     }
   },
-  "generated_at": "2026-06-24T17:10:11.868323+00:00",
+  "generated_at": "2026-06-25T17:18:54.846338+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
