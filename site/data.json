@@ -5300,6 +5300,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19139683956",
       "year": 2026
+    },
+    {
+      "date": "2026-07-01",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19142423024",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9720,12 +9729,13 @@
         },
         "2026-07-01": {
           "activity_ids": [
-            "19139683956"
+            "19139683956",
+            "19142423024"
           ],
-          "count": 1,
-          "distance": 46911.9,
-          "elevation_gain": 322.0,
-          "moving_time": 5545.0
+          "count": 2,
+          "distance": 61972.5,
+          "elevation_gain": 359.0,
+          "moving_time": 7583.0
         }
       },
       "Run": {
@@ -10577,7 +10587,7 @@
       }
     }
   },
-  "generated_at": "2026-07-01T17:21:03.140928+00:00",
+  "generated_at": "2026-07-02T16:55:54.763038+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
