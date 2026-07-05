@@ -7668,5 +7668,18 @@
     "start_date_local": "2026-07-01T21:46:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 13769.8,
+    "elevation_gain": 328.4,
+    "id": "19180542089",
+    "moving_time": 10813.0,
+    "name": "Norway Day 1",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-04T12:46:29Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
