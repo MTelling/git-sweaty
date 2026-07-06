@@ -7681,5 +7681,31 @@
     "start_date_local": "2026-07-04T12:46:29Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 15088.5,
+    "elevation_gain": 1261.4,
+    "id": "19193666645",
+    "moving_time": 16062.0,
+    "name": "Norway day 2",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-05T08:37:03Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 12117.0,
+    "elevation_gain": 348.2,
+    "id": "19200368924",
+    "moving_time": 9588.0,
+    "name": "Norway day 3",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-06T08:56:26Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
