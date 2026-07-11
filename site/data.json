@@ -5354,6 +5354,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19247612619",
       "year": 2026
+    },
+    {
+      "date": "2026-07-11",
+      "hour": 9,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19270148893",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9635,6 +9644,15 @@
           "distance": 15088.5,
           "elevation_gain": 1261.4,
           "moving_time": 16062.0
+        },
+        "2026-07-11": {
+          "activity_ids": [
+            "19270148893"
+          ],
+          "count": 1,
+          "distance": 18862.8,
+          "elevation_gain": 748.6,
+          "moving_time": 6102.0
         }
       },
       "Kayaking": {
@@ -10681,7 +10699,7 @@
       }
     }
   },
-  "generated_at": "2026-07-10T17:02:58.355746+00:00",
+  "generated_at": "2026-07-11T16:00:41.850961+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
