@@ -7746,5 +7746,31 @@
     "start_date_local": "2026-07-11T09:32:47Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 33495.7,
+    "elevation_gain": 1607.0,
+    "id": "19280347795",
+    "moving_time": 9486.0,
+    "name": "Col de la Madeleine - Ascent",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-12T08:03:16Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 33451.4,
+    "elevation_gain": 102.0,
+    "id": "19280355802",
+    "moving_time": 3890.0,
+    "name": "Col de la Madeleine - Descent",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-12T11:44:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
