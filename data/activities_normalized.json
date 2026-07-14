@@ -7785,5 +7785,18 @@
     "start_date_local": "2026-07-13T15:20:59Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 23828.3,
+    "elevation_gain": 1410.0,
+    "id": "19309729330",
+    "moving_time": 8755.0,
+    "name": "Mont Jovet",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-14T08:01:26Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
