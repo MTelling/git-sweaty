@@ -7798,5 +7798,18 @@
     "start_date_local": "2026-07-14T08:01:26Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 37046.8,
+    "elevation_gain": 1229.0,
+    "id": "19335811806",
+    "moving_time": 8948.0,
+    "name": "Col de la Loze fra Courchevel la praz",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-16T08:52:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
