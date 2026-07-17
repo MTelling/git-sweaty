@@ -7811,5 +7811,18 @@
     "start_date_local": "2026-07-16T08:52:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 33225.5,
+    "elevation_gain": 992.0,
+    "id": "19351502024",
+    "moving_time": 6500.0,
+    "name": "Col du Grand Ballon fra Jungholtz",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T15:47:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
