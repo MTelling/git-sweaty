@@ -5417,6 +5417,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19351502024",
       "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 8,
+      "name": "Tour de France - Etape 14 tilskuer",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19372676563",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9716,6 +9725,15 @@
           "distance": 23828.3,
           "elevation_gain": 1410.0,
           "moving_time": 8755.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19372676563"
+          ],
+          "count": 1,
+          "distance": 15149.1,
+          "elevation_gain": 598.0,
+          "moving_time": 13819.0
         }
       },
       "Kayaking": {
@@ -10799,7 +10817,7 @@
       }
     }
   },
-  "generated_at": "2026-07-18T16:02:02.944645+00:00",
+  "generated_at": "2026-07-19T16:01:53.759657+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
