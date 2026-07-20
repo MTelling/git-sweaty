@@ -7837,5 +7837,18 @@
     "start_date_local": "2026-07-18T08:13:48Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 7590.2,
+    "elevation_gain": 446.6,
+    "id": "19386898283",
+    "moving_time": 7587.0,
+    "name": "De tre borgruiner ved Ribeauvill\u00e9",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-20T10:15:58Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
