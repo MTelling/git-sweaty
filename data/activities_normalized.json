@@ -7954,5 +7954,18 @@
     "start_date_local": "2026-08-01T14:08:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 2150.8,
+    "elevation_gain": 22.2,
+    "id": "19586589650",
+    "moving_time": 3676.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-03T18:32:11Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
