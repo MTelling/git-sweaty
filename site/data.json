@@ -5570,6 +5570,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19684522997",
       "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19699630180",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10128,6 +10137,15 @@
           "distance": 55614.2,
           "elevation_gain": 387.0,
           "moving_time": 6449.0
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "19699630180"
+          ],
+          "count": 1,
+          "distance": 45630.5,
+          "elevation_gain": 324.0,
+          "moving_time": 5826.0
         }
       },
       "Run": {
@@ -11105,7 +11123,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T16:04:08.959572+00:00",
+  "generated_at": "2026-08-12T16:02:48.499637+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
