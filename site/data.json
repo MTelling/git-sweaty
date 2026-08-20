@@ -5597,6 +5597,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19798446030",
       "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19812288461",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10454,6 +10463,15 @@
           "distance": 4035.5,
           "elevation_gain": 8.0,
           "moving_time": 1624.0
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "19812288461"
+          ],
+          "count": 1,
+          "distance": 4070.7,
+          "elevation_gain": 28.4,
+          "moving_time": 1639.0
         }
       },
       "Swim": {
@@ -11159,7 +11177,7 @@
       }
     }
   },
-  "generated_at": "2026-08-19T15:37:33.599643+00:00",
+  "generated_at": "2026-08-20T15:39:48.079424+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
