@@ -8110,5 +8110,31 @@
     "start_date_local": "2026-08-20T18:54:19Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 31326.8,
+    "elevation_gain": 297.0,
+    "id": "19862238587",
+    "moving_time": 3605.0,
+    "name": "Zwift - Itza Climb Finish in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-23T11:23:15Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 2205.1,
+    "elevation_gain": 7.2,
+    "id": "19863011068",
+    "moving_time": 782.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-23T12:30:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
