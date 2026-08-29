@@ -8175,5 +8175,18 @@
     "start_date_local": "2026-08-27T18:35:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 2097.9,
+    "elevation_gain": 32.2,
+    "id": "19946176738",
+    "moving_time": 2871.0,
+    "name": "Christiansborg rundt",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-29T10:33:04Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
