@@ -8188,5 +8188,31 @@
     "start_date_local": "2026-08-29T10:33:04Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 30117.6,
+    "elevation_gain": 546.0,
+    "id": "19959637261",
+    "moving_time": 4288.0,
+    "name": "Zwift - Aerobic Strength Development",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-30T10:12:15Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 3023.7,
+    "elevation_gain": 9.4,
+    "id": "19965336396",
+    "moving_time": 1060.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-30T17:16:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
