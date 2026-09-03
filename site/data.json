@@ -5696,6 +5696,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19992790797",
       "year": 2026
+    },
+    {
+      "date": "2026-09-02",
+      "hour": 20,
+      "name": "Zwift - Lavender Unicorn",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20010230382",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11097,6 +11106,15 @@
           "distance": 30117.6,
           "elevation_gain": 546.0,
           "moving_time": 4288.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "20010230382"
+          ],
+          "count": 1,
+          "distance": 17294.8,
+          "elevation_gain": 93.0,
+          "moving_time": 1813.0
         }
       },
       "WeightTraining": {
@@ -11357,7 +11375,7 @@
       }
     }
   },
-  "generated_at": "2026-09-02T18:30:44.987649+00:00",
+  "generated_at": "2026-09-03T18:26:54.465296+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
