@@ -8279,5 +8279,18 @@
     "start_date_local": "2026-09-09T18:47:15Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 10890.1,
+    "elevation_gain": 51.0,
+    "id": "20132461647",
+    "moving_time": 1246.0,
+    "name": "Zwift - Race Day!",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-11T18:20:50Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
