@@ -8292,5 +8292,44 @@
     "start_date_local": "2026-09-11T18:20:50Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 1567.9,
+    "elevation_gain": 0.0,
+    "id": "20143547498",
+    "moving_time": 2172.0,
+    "name": "Tri p\u00e5 tyren - Sv\u00f8m",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-12T10:58:25Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 10298.6,
+    "elevation_gain": 80.0,
+    "id": "20143547531",
+    "moving_time": 3454.0,
+    "name": "Tri p\u00e5 tyren - l\u00f8b",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T13:10:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 45835.5,
+    "elevation_gain": 412.0,
+    "id": "20144269948",
+    "moving_time": 5203.0,
+    "name": "Tri p\u00e5 tyren - cykel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-12T11:41:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

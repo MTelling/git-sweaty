@@ -5741,6 +5741,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20132461647",
       "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 10,
+      "name": "Tri p\u00e5 tyren - Sv\u00f8m",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20143547498",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 13,
+      "name": "Tri p\u00e5 tyren - l\u00f8b",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20143547531",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 11,
+      "name": "Tri p\u00e5 tyren - cykel",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20144269948",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10326,6 +10353,15 @@
           "distance": 41213.4,
           "elevation_gain": 264.0,
           "moving_time": 4964.0
+        },
+        "2026-09-12": {
+          "activity_ids": [
+            "20144269948"
+          ],
+          "count": 1,
+          "distance": 45835.5,
+          "elevation_gain": 412.0,
+          "moving_time": 5203.0
         }
       },
       "Run": {
@@ -10661,6 +10697,15 @@
           "distance": 5116.9,
           "elevation_gain": 13.0,
           "moving_time": 1931.0
+        },
+        "2026-09-12": {
+          "activity_ids": [
+            "20143547531"
+          ],
+          "count": 1,
+          "distance": 10298.6,
+          "elevation_gain": 80.0,
+          "moving_time": 3454.0
         }
       },
       "Swim": {
@@ -10942,6 +10987,15 @@
           "distance": 1200.0,
           "elevation_gain": 0.0,
           "moving_time": 2015.0
+        },
+        "2026-09-12": {
+          "activity_ids": [
+            "20143547498"
+          ],
+          "count": 1,
+          "distance": 1567.9,
+          "elevation_gain": 0.0,
+          "moving_time": 2172.0
         }
       },
       "VirtualRide": {
@@ -11447,7 +11501,7 @@
       }
     }
   },
-  "generated_at": "2026-09-11T18:19:55.287273+00:00",
+  "generated_at": "2026-09-12T17:43:44.332361+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
