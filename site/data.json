@@ -5876,6 +5876,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20557386936",
       "year": 2026
+    },
+    {
+      "date": "2026-10-14",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20585854185",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10868,6 +10877,15 @@
           "distance": 5723.6,
           "elevation_gain": 21.0,
           "moving_time": 1872.0
+        },
+        "2026-10-14": {
+          "activity_ids": [
+            "20585854185"
+          ],
+          "count": 1,
+          "distance": 5223.5,
+          "elevation_gain": 12.8,
+          "moving_time": 1826.0
         }
       },
       "Swim": {
@@ -11717,7 +11735,7 @@
       }
     }
   },
-  "generated_at": "2026-10-13T20:34:48.287755+00:00",
+  "generated_at": "2026-10-14T19:15:22.935864+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/125315824",
   "repo": "MTelling/git-sweaty",
