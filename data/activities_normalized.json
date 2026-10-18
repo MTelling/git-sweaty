@@ -8526,5 +8526,18 @@
     "start_date_local": "2026-10-17T09:36:24Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 26840.4,
+    "elevation_gain": 618.0,
+    "id": "20633352933",
+    "moving_time": 4500.0,
+    "name": "ROUVY - Tea & Biscuits | Ric Stern",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-18T11:49:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
