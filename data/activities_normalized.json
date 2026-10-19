@@ -8539,5 +8539,18 @@
     "start_date_local": "2026-10-18T11:49:24Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 4125.2,
+    "elevation_gain": 6.2,
+    "id": "20651817401",
+    "moving_time": 1398.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-19T21:22:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
