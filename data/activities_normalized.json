@@ -8541,6 +8541,19 @@
     "year": 2026
   },
   {
+    "date": "2026-10-18",
+    "distance": 348.9,
+    "elevation_gain": 4.0,
+    "id": "20678510615",
+    "moving_time": 60.0,
+    "name": "ROUVY - Tutorial Ride | Castell de Castells | Spain",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-18T11:46:45Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
     "date": "2026-10-19",
     "distance": 4125.2,
     "elevation_gain": 6.2,
@@ -8551,6 +8564,19 @@
     "raw_type": "Run",
     "start_date_local": "2026-10-19T21:22:07Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 21212.5,
+    "elevation_gain": 200.0,
+    "id": "20679092469",
+    "moving_time": 2697.0,
+    "name": "ROUVY - Zone 2 Done Right | Master's plan II",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-21T20:18:47Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]
