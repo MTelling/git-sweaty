@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:00:36.063604+00:00",
+  "generated_at": "2026-10-25T18:18:32.202244+00:00",
   "years": {
     "2023": {
       "MountainBikeRide": {
@@ -5870,6 +5870,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2597.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20726808988"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3972.0
         }
       },
       "Yoga": {
