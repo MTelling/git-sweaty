@@ -8617,5 +8617,18 @@
     "start_date_local": "2026-10-28T21:25:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20807417190",
+    "moving_time": 2889.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-31T17:28:58Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
