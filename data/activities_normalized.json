@@ -8630,5 +8630,18 @@
     "start_date_local": "2026-10-31T17:28:58Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 33658.2,
+    "elevation_gain": 381.0,
+    "id": "20816150219",
+    "moving_time": 4200.0,
+    "name": "ROUVY - Sustained Tempo | Matthew Marquardt\u2019s Favourite",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T11:50:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
