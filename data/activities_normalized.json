@@ -8656,5 +8656,18 @@
     "start_date_local": "2026-11-02T20:54:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 25035.9,
+    "elevation_gain": 478.0,
+    "id": "20894161589",
+    "moving_time": 3667.0,
+    "name": "Zwift - Lactate Shuttle #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-07T12:14:54Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
